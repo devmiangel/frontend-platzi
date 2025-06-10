@@ -1,0 +1,15 @@
+ que es un motor de renderizado 
+
+Cuando se escribe el codigo, el navegador no entiende lo que se escribe
+el navegador tiene un motor de que establece cada uno de los elementos en "codigo"
+que el navegador pueda entender, y luego lo renderiza en pantalla
+
+
+5 pasos:
+el primero es transformar el html en objeto que el navegador entienda
+esto es el DOM (Document Object Model)
+el segundo es establceer los estilos para cada uno de los elementos
+el tercero es calcular las dimensiones de cada uno de los elementos
+el cuarto es pintar cada uno de los elementos en la pantalla
+el quiento es hacer el layout de cada uno de los elementos
+
