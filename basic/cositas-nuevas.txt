@@ -13,3 +13,105 @@ el tercero es calcular las dimensiones de cada uno de los elementos
 el cuarto es pintar cada uno de los elementos en la pantalla
 el quiento es hacer el layout de cada uno de los elementos
 
+HTML SEMANTICO 
+Es utilizar las etiquetas de la manera adecuada, no usar para todo div
+
+ETIQUETAS MAS USADAS
+LAYOUT - DISEÑO DE LA PAGINA 
+    header
+    nav 
+    section 
+    article
+    aside
+    footer
+
+ENLACES
+    a
+
+TEXTO
+    h...
+    p
+    span 
+
+IMAGENES Y VIDEO 
+    img 
+    svg
+    iframe
+    video
+
+FORMULARIOS
+    form
+    input
+    label 
+    button
+
+LISTAS
+    ul
+    li
+    ol
+
+-----------------------------------------
+
+CSS
+    el nombre de la etuqueta a la que se añade el estilo en css se llama selectores
+
+TIPOS DE SELECTORES
+    de tipo
+        indica la etiqueta 
+    de clase
+        indica la clase
+    de id
+        indica el id del elemento 
+    de atributo
+        depende del atributo de la etiqueta se estiliza el atributo
+    universal
+        *
+
+SELECTORES COMBINADORES
+    descendientes - div p
+    Hijo directo - div > p
+    elemento adyacente - div + p 
+    general de hermanos div ~ p 
+
+PSEUDO CLASES Y PSEUDOELEMENTOS
+    PSEUDO clase - llegar a las actividades o acciones de un elemento
+        :active
+        :focus
+        :hover
+        :nth-child
+    
+    PSEUDOELEMENTOS - permite acceder a elementos html que no se accesibles con los selectores anterioreas
+        :: after
+        :: before
+        :: first-letter
+        ::placeholder
+
+ESPECIFICIDAD
+    hace referencia a que estilo se establece en un elemento dependiendo de que tan especificado este en el selector 
+
+DISPLAY - TIPO DE VISUALIZACION 
+    BLOCK 
+    INLINE
+    INLINE-BLOCK
+    FLEX (PROFUNDIZAR)
+    GRID (PROFUNDIZAR)
+
+BOX MODEL 
+    content
+    padding
+    border
+    margin 
+
+COLAPSO DE MARGENES
+    el colapso de las margenes es porque los elementos son de tipo bloque
+    ese colapso no se ve cuando los elementos son de tipo grid o flex
+
+POSITION
+    es la posicion del elemento en el contenedor 
+    relative
+    absolute
+    fixed
+    sticky
+    static
+    initial 
+    inherital

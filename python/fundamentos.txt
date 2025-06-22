@@ -1,0 +1,19 @@
+Semantica y sintaxis 
+
+la semantica es el sentido que se le da al codigo 
+
+la sintaxis es la manera en la que se escribe de manera correcta el codigo con buenas practicas
+
+tipo de dato string
+    STR se puede usar comillas dobles simples o tripel comilla simples
+    INDEXACION
+        acceder a las posiciones de las letras dentro de la cadena de texto
+        tambien se pueden realizar la concatenacion y repeticion en las cadenas con el + o *
+    
+    METODOS DE LAS cadena   
+        son acciones que se realizan a partir de los metodos de las cadenas
+        https://docs.python.org/es/3/library/stdtypes.html#string-methods
+        
+    
+BUENAS PRACTICAS
+    mantener la congruencia del codigo 
