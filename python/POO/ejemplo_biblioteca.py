@@ -63,6 +63,7 @@ book2 = Book("Magir realism", "Gabo", "Cien años de soledad")
 user1 = User("tal", 1)
 
 library1 = Library()
+
 library1.add_book(book1)
 library1.add_book(book2)
 library1.add_user(user1)
